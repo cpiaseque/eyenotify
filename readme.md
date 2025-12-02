@@ -5,6 +5,12 @@ The system service sends a 20-minute reminder to take a break for eye exercises 
 Works on Ubuntu-based systems.
 
 
+    
+![Screenshot](https://github.com/cpiaseque/eyenotify/blob/assets/notification.png)
+
+  
+
+
 ## Install
 
 Run this single command to install the service for the current user and start it immediately:
